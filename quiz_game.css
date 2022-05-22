@@ -1,0 +1,43 @@
+body {
+    background-image: url(login_page_bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#p1 {
+    border-style: solid;
+    border-color: mediumspringgreen;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+#p2 {
+    border-style: solid;
+    border-color:mediumslateblue;
+    border-width: 5px;
+    border-radius: 10px;
+}
+
+#loginbtn {
+    background-color: mediumvioletred;
+    border-color: mediumvioletred;
+    width: 75px;
+    height: 25px;
+    color: white;
+}
+
+h1 {
+    color:ghostwhite;
+}
+
+h3 {
+    color: ghostwhite;
+}
+
+input {
+    border-color:midnightblue;
+    background-color:midnightblue;
+    width: 200px;
+    height: 20px;;
+    color: white;
+}
